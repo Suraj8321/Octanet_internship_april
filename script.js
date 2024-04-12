@@ -1,3 +1,4 @@
+Task: 1
 // script.js
 
 document.getElementById('newsletterForm').addEventListener('submit', function(event) {
